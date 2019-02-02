@@ -1,0 +1,21 @@
+h1 {
+    color: blue;
+    font-family: sans-serif;
+    font-size: 25px;
+    text-align: center;
+}
+
+.byline{
+	text-align: center;
+
+}
+
+p{
+	text-align: left;
+	font-size: 15px;
+	border: 3px solid black;
+}
+
+span {
+	border: 3px solid red;
+}

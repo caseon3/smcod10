@@ -1,0 +1,18 @@
+h1 {
+    font-family: Arial;
+    color: black;
+}
+
+div ol {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+li {
+    width: 300px;
+}
+
+.img-podcast {
+    width: 65px;
+    height; 65px;
+}
